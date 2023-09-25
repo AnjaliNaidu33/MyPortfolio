@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<!-- saved from url=(0059)file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Website</title>
+    <link rel="stylesheet" href="./Travelweb_files/task1.css">
+</head>
+<body>
+
+    <div class="navbar">
+        <div class="start">
+            <h1>Travel is to Live</h1>
+            <br>
+        </div>
+        <div class="bar">
+            <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Home</a>
+            <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Places</a>
+            <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Booking</a>
+            <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Contact</a>
+            <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Login</a>
+            <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#" class="signin" style="margin-right: 50px;">Signin</a>
+            <input placeholder="search places">
+            <button style="font-weight: bold">search</button>
+        </div>
+    </div>
+
+    <div class="pages">
+        <div class="heading">
+            <div class="main">
+                <h1 style="font-size: 50px;">World To Live!!!</h1>
+                <br>
+                <p style="font-weight: bolder; font-size:larger">Join the journey of a lifetime! Let our travel website be your passport to unforgettable experiences and memories that last a lifetime.</p>
+                <br>
+                <br>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#" style="background-color: white;">Learn More</a>
+            </div>
+        </div>
+
+        <div class="tours">
+            <br>
+            <h1 style="text-align: center;">Places To Visit</h1>
+            <br><br>
+            <div class="places">
+                <h2>Australia</h2>
+                <img src="./Travelweb_files/australia.jpg" style="width: 300px; height: 250px; border-radius: 12px">
+                <br>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Book Now 15% OFF</a>
+            </div>
+
+            <div class="places">
+                <h2>Switzerland</h2>
+                <img src="./Travelweb_files/switzerland.jpg" style="width: 300px; height: 250px; border-radius: 12px">
+                <br>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Book Now 15% OFF</a>
+            </div>
+
+            <div class="places">
+                <h2>Canada</h2>
+                <img src="./Travelweb_files/canada.jpg" style="width: 300px; height: 250px; border-radius: 12px">
+                <br>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Book Now 10% OFF</a>
+            </div>
+
+            <div class="places">
+                <h2>Dubai</h2>
+                <img src="./Travelweb_files/dubai.jpg" style="width: 300px; height: 250px; border-radius: 12px">
+                <br>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Book Now 20% OFF</a>
+            </div>
+
+            <br><br><br><br>
+            <div class="places">
+                <h2>Paris</h2>
+                <img src="./Travelweb_files/paris.jpg" style="width: 300px; height: 250px; border-radius: 12px">
+                <br>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Book Now 10% OFF</a>
+            </div>
+
+            <div class="places">
+                <h2>Japan</h2>
+                <img src="./Travelweb_files/japan.jpg" style="width: 300px; height: 250px; border-radius: 12px">
+                <br>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Book Now 10% OFF</a>
+            </div>
+
+            <div class="places">
+                <h2>Russia</h2>
+                <img src="./Travelweb_files/russia.jpg" style="width: 300px; height: 250px; border-radius: 12px">
+                <br>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Book Now 10% OFF</a>
+            </div>
+
+            <div class="places">
+                <h2>Germany</h2>
+                <img src="./Travelweb_files/germany.jpg" style="width: 300px; height: 250px; border-radius: 12px">
+                <br>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">Book Now 10% OFF</a>
+            </div>
+        </div>
+    </div>
+
+    <br><br>
+    <footer>
+        <div class="follow">
+            <br>
+            <h2 style="text-align: center;color: white">Follow Us More On</h2>
+            <div class="icons">
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">
+                   <img src="./Travelweb_files/insta.jpg" alt="Instagram Icon" style="width: 50px; height: 50px">
+                </a>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">
+                   <img src="./Travelweb_files/facebook.jpg" alt="Facebook Icon" style="width: 50px; height: 50px">
+                </a>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">
+                   <img src="./Travelweb_files/twitter.jpg" alt="Twitter Icon" style="width: 50px; height: 50px">
+                </a>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">
+                   <img src="./Travelweb_files/telegram.jpg" alt="Telegram Icon" style="width: 50px; height: 50px">
+                </a>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">
+                   <img src="./Travelweb_files/youtube.jpg" alt="YouTube Icon" style="width: 50px; height: 50px">
+                </a>
+                <a href="file:///C:/Users/nethr/OneDrive/Desktop/Projects/task1.html#">
+                   <img src="./Travelweb_files/pinterest.jpg" alt="Pinterest Icon" style="width: 50px; height: 50px">
+                </a>
+            </div>
+            <div class="end">
+                <p>Contact us:+919135842666</p>
+                <p>Copyright ©2023 Designed by <span class="designer"> Anjali </span></p>
+            </div>
+        </div>
+    </footer>
+
+ 
+
+				
+</body></html>
